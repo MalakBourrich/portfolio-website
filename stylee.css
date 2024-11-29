@@ -1,5 +1,5 @@
 body{
-    background-color:#D6C8B8;
+    background-color:#c2c5c7;
     background-size: contain;
     color: #000000;
    padding: 15px 20px;
@@ -30,7 +30,7 @@ nav ul li {
 }
 nav ul li a {
     text-decoration: none;
-    color: black;
+    color: #800020;
     font-size: 18px;
     position: relative;
     font-weight: 700;
@@ -161,7 +161,7 @@ nav ul li a:hover::after{
     margin-top: 50px;
 }
 .skill-list div{
-    background-color: #953b52;
+    background-color: #791931;
     padding:20px;
     font-size: 13px;
     font-weight: 300;
@@ -192,7 +192,7 @@ nav ul li a:hover::after{
     font-size: 300;
     margin-left: 10px;
     outline: none;
-    color:#B30026;
+    color:#791931;
 }
 .btnc{
     padding:14px 60px;
@@ -200,7 +200,7 @@ nav ul li a:hover::after{
     margin-top: 20px;
     cursor: pointer;
     display: inline-block;
-    background: #B30026;
+    background: #791931;
     border-radius: 10px;
 }
 .certif-right{
@@ -229,7 +229,7 @@ nav ul li a:hover::after{
 }
 .btn.btn2{
     display: inline-block;
-    background: #B30026;
+    background: #791931;
     border-radius: 10px;
 }
 .contact-right form{
@@ -270,7 +270,6 @@ form .btn2 {
 .copyright{
     text-align: center;
     color: #000000;
-    background-color: #B30026;
     width: 100%;
     margin-top: 20px;
     padding: 5px;
